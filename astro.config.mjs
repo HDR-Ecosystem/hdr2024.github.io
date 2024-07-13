@@ -26,6 +26,9 @@ const whenExternalScripts = (items = []) =>
 
 export default defineConfig({
 
+  site: 'https://hdr-ecosystem.github.io',
+  base: 'hdr2024',
+
   devToolbar: {
     enabled: false
   },
