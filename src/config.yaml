@@ -1,6 +1,6 @@
 site:
   name: 2024 NSF HDR Conference
-  site: 'https://github.com/a3d3-institute/hdr2024.github.io'
+  site: 'https://hdr-ecosystem.github.io/hdr2024'
   base: '/'
   trailingSlash: false
 
