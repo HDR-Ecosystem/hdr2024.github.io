@@ -7,7 +7,7 @@ export const headerData = {
       text: 'About',
       links: 
       [
-        { text: 'HDR Ecosystem',        href: getPermalink('/hdr')      },
+        { text: 'HDR Ecosystem',        href: getPermalink('hdr2024/hdr')      },
         { text: 'Conference Series',    href: getPermalink('/series')   },
         { text: 'Goals',                href: getPermalink('/goals')    },
         { text: 'Code-of-Conduct',      href: getPermalink('/coc')      },
